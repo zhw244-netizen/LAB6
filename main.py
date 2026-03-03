@@ -1,4 +1,5 @@
 def main():
+    # Ask the user for their name (string input)
     name = input("What's your name?")
 
     try:
