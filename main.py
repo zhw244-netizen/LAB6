@@ -5,7 +5,7 @@ def main():
         age = int(input("How old are you?"))
     except ValueError:
         print("Please enter a valid integer for age.")
-    return
+        return
 
     print(f"Your name is {name}")
     print(f"Your age is {age}")
