@@ -7,6 +7,7 @@ def main():
         print("Please enter a valid integer for age.")
         return
 
+    print()
     print(f"Your name is {name}")
     print(f"Your age is {age}")
     
