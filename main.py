@@ -1,8 +1,14 @@
-nameQ = input("What's your name?")
-ageQ = int(input("How old are you?"))
+def main():
+    name = input("What's your name?")
 
-print (f"Your name is" + nameQ)
-print (f"Your age is" + ageQ)
-if ageQ = int:
-    print(f"In 20 years you will be " + (20 + ageQ))
+    try:
+        age = int(input("How old are you?"))
+    except ValueError:
+        print("Please enter a valid integer for age.")
+    return
+
+    print(f"Your name is {name}")
+    print(f"Your age is {age}")
+    
+    print(f"In 20 years you will be {age + 20}")
 
