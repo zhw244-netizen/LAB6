@@ -1,4 +1,4 @@
-# LAB6 - MINI Group Making a repository
+# LAB6 -    Lab 6 VERSION CONTRAL
 
 ##What this program does 
 This program asks the user for their name and age,then prints:
