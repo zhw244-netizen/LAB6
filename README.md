@@ -1,4 +1,4 @@
-# LAB6 -    Lab 6 VERSION CONTRAL
+# LAB6 -    Lab 6 VERSION CONTROL
 
 ## What this program does 
 This program asks the user for their name and age,then prints:
@@ -15,3 +15,4 @@ This program asks the user for their name and age,then prints:
 ## Group members
 - Zhike Wang (ZHW244@pitt.edu)
 - Gabrielle Sutherland (@gesutherland)
+- Henry Starks (has668@pitt.edu)
